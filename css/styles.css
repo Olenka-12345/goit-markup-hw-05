@@ -867,7 +867,7 @@ align-items: center;
 justify-content:center;
 fill: transparent;
 }
-.label-checkbox:checked span
+.input-checkbox:checked span
 {
 border: none;
 fill:#fdf4f7;
