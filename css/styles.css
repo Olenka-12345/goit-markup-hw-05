@@ -905,8 +905,7 @@ margin: 32px 95px;
     border: none;
     fill: #F4F4FD;
 }
-.modal-form-name-input:focus + .modal-form-name
+.modal-name-icon:focus 
 {
-fill: #4D5AE5;
+    fill: #4D5AE5;
 }
-
