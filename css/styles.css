@@ -876,6 +876,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cu
 display: inline-flex;
 align-items: center;
 justify-content:center;
+fill: transparent;
 }
 .label-checkbox-link
 {
@@ -904,5 +905,8 @@ margin: 32px 95px;
     border: none;
     fill: #F4F4FD;
 }
-
+.modal-form-name-input:focus + .modal-form-name
+{
+fill: #4D5AE5;
+}
 
