@@ -878,11 +878,6 @@ align-items: center;
 justify-content:center;
 fill: transparent;
 }
-.input-checkbox:checked >span
-{
-border: none;
-fill:#fdf4f7;
-}
 .label-checkbox-link
 {
 color:#4d5ae5;
@@ -907,5 +902,4 @@ margin: 32px 95px;
 input[type="checkbox"]:checked + span {
     background-color:#404bbf;
     border: none;
-    fill:#F4F4FD;
-}
+    fill:#F4F4FD;}
